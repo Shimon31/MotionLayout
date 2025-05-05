@@ -6,4 +6,10 @@
     </style>
 
     <style name="Theme.MotionLayout" parent="Base.Theme.MotionLayout" />
+
+    <style name="CornerSize50Percent" parent="">
+
+        <item name="cornerSize">50%</item>
+
+    </style>
 </resources>
